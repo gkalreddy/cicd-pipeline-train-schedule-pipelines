@@ -11,4 +11,4 @@ archiveArtifacts artifacts:'dist/trainSchedule.zip'
 }
 }
 }
-}
+
